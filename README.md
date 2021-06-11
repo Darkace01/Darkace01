@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=darkace01)](https://github.com/darkace01)
+[![trophy](https://github-profile-trophy.vercel.app/?username=darkace01&theme=onedark)](https://github.com/darkace01)
 
 
 Here are some ideas to get you started:
