@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkace01&layout=compact&hide=html&theme=dark" alt="developerslearnit" />
 <div/>
+<div>
+    ![Darkace01's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkace01&show_icons=true&theme=radical)
+    </div>
