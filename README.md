@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [My Website](https://kaz.com.ng)...
 - 😄 Pronouns: Him
 - ⚡ Fun fact: I love to watch movies
-- 
 ## Connect with me
 
 <a href="https://api.whatsapp.com/send?phone=2348168958726&text=Hi%20Mark,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
@@ -30,6 +29,3 @@ Here are some ideas to get you started:
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkace01&layout=compact&hide=html&theme=dark" alt="developerslearnit" />
 <div/>
-<div>
-    ![Darkace01's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkace01&show_icons=true&theme=radical)
-    </div>
