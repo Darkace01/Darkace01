@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a couple of projects 😃
-- 🌱 I’m currently learn Angular *TS* and my other stacks are C#,.Net, MySQL,REST Api, Azure, Azure Devops and CD/CD(Github actions). Also in my free time I do basic UI designs with Figma and XD
+- 🌱 I’m currently learning React and my other stacks are C#,.Net, MySQL,REST Api, Azure, Azure Devops and CD/CD(Github actions). Also in my free time I do basic UI designs with Figma and XD
 - 👯 I’m looking to collaborate on open source projects that can help solve problems with education and learning
 - 🤔 I’m looking for help with side projects
 - 💬 Ask me about anything (You think I should know 🤣)
