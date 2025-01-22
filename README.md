@@ -9,8 +9,8 @@ A highly skilled and versatile software engineer with a passion for creating inn
 * 🌍  I'm based in London, United Kingdom
 * 🖥️  See my portfolio at [My Portfolio](http://kaz.com.ng)
 * ✉️  You can contact me at [quadrikazeem01@gmail.com](mailto:quadrikazeem01@gmail.com)
-* 🚀  I'm currently working on [Income App](http://github.com/Darkace01/financial-app-rn)
-* 🧠  I'm learning NextJs and Blazor
+* 🚀  I'm currently working on a few projects, you can check my public repos
+* 🧠  I'm learning Python, R and still improving on my .Net and Reac skills
 * 🤝  I'm open to collaborating on Fun Project and anything project in my area of expertise
 
 <a href="https://www.github.com/DarkAce01" target="_blank" rel="noreferrer"><img
