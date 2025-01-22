@@ -6,7 +6,7 @@ Software Engineer
 
 A highly skilled and versatile software engineer with a passion for creating innovative and impactful solutions.
 
-* 🌍  I'm based in Lagos, Nigeria
+* 🌍  I'm based in London, United Kingdom
 * 🖥️  See my portfolio at [My Portfolio](http://kaz.com.ng)
 * ✉️  You can contact me at [quadrikazeem01@gmail.com](mailto:quadrikazeem01@gmail.com)
 * 🚀  I'm currently working on [Income App](http://github.com/Darkace01/financial-app-rn)
