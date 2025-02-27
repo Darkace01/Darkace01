@@ -7,7 +7,7 @@ Software Engineer
 A highly skilled and versatile software engineer with a passion for creating innovative and impactful solutions.
 
 * 🌍  I'm based in London, United Kingdom
-* 🖥️  See my portfolio at [My Portfolio](http://kaz.com.ng)
+* 🖥️  See my portfolio at [My Portfolio](http://kazeemquadri.com)
 * ✉️  You can contact me at [quadrikazeem01@gmail.com](mailto:quadrikazeem01@gmail.com)
 * 🚀  I'm currently working on a few projects, you can check my public repos
 * 🧠  I'm learning Python, R and still improving on my .Net and Reac skills
